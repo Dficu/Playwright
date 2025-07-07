@@ -1,2 +1,2 @@
-# Playwright
-A repository where I upload test automation projects in Playwright.
+# Playwright E2E automated testing.
+A repository where I will be uploading test automation projects in Playwright.
